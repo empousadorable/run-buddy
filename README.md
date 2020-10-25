@@ -7,8 +7,10 @@ A website that offers fitness training services.
 * HTML
 * CSS
 
-## Website
-https://empousadorable.github.io/run-buddy/
+## Links
+Repository: https://github.com/empousadorable/run-buddy
+Website: https://empousadorable.github.io/run-buddy/
+Issues: https://github.com/empousadorable/run-buddy/issues
 
 ## Contribution
 Made with ❤️ by Chelsea Thurman
